@@ -38,14 +38,14 @@ max: 10x1 + 7x2 + 5x3
 ### Крок 3: Візуалізація 3D обмежень
 
 Було створено тривимірну площину обмежень:
-![plt.figure](https://github.com/Kaena0/linear_programming_solomia/blob/main/screenshots/plt.figure.png?raw=true)
+![plt.figure](https://github.com/Dorothy905432/linear_programming_vitalik/blob/main/image/plt.figure.png?raw=true)
 
 ---
 
 ### Крок 4: 2D графік території допустимих рішень
 
 Приклад з графіковою візуалізацією обмежень:
-![np.linspace](https://github.com/Kaena0/linear_programming_solomia/blob/main/screenshots/np.linspace.png?raw=true)
+![np.linspace](https://github.com/Dorothy905432/linear_programming_vitalik/blob/main/image/np.linspace.png?raw=true)
 
 ---
 
@@ -71,7 +71,7 @@ profit = -res.fun
 Загальний прибуток: 125.0
 ```
 
-![np.array](https://github.com/Kaena0/linear_programming_solomia/blob/main/screenshots/np.array.png?raw=true)
+![np.array](https://github.com/Dorothy905432/linear_programming_vitalik/blob/main/image/np.array.png?raw=true)
 
 ---
 
